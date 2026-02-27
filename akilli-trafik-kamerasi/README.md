@@ -34,5 +34,5 @@ Dönüşüm sonrası görüntünün kesilmemesi ve sınır taşması yaşanmamas
 Gerekli kütüphaneleri (OpenCV, NumPy, Matplotlib) kurduktan sonra terminale şu komutu yazarak projeyi çalıştırabilirsiniz:
 
 ```bash
-python TrafikVeriArtirimi.py
+python AkilliTrafikKamerasi.py
 
