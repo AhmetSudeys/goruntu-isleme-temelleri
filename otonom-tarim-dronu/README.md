@@ -30,6 +30,7 @@ Gerekli kütüphaneleri (OpenCV, NumPy, Matplotlib) kurduktan sonra terminale ş
 ```bash
 python BitkiAnaliz.py
 
+---
 
 <img width="1587" height="786" alt="image" src="https://github.com/user-attachments/assets/3ce6b54f-746d-46fc-b84c-32f167d93469" />
 
