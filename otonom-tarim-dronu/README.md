@@ -32,5 +32,6 @@ python BitkiAnaliz.py
 
 ---
 
-<img width="1587" height="786" alt="image" src="https://github.com/user-attachments/assets/3ce6b54f-746d-46fc-b84c-32f167d93469" />
+<img width="1587" height="786" alt="Ekran görüntüsü 2026-02-27 234707" src="https://github.com/user-attachments/assets/25e24f04-2eaa-4cdc-86a6-6e0b6d60af34" />
+
 
