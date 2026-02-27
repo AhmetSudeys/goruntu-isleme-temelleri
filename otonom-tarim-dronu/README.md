@@ -1,6 +1,7 @@
 # Hafta 1: Otonom Tarım Dronu - Görüntü İyileştirme ve Analiz
 
-<img width="1587" height="786" alt="Ekran görüntüsü 2026-02-27 234707" src="https://github.com/user-attachments/assets/25e24f04-2eaa-4cdc-86a6-6e0b6d60af34" />
+<img width="1587" height="786" alt="Ekran görüntüsü 2026-02-27 234707" src="https://github.com/user-attachments/assets/45bcd2ee-6592-44c8-ab64-8e6bb416676e" />
+
 
 Bu klasör, otonom tarım dronlarının sabah saatlerinde karşılaştığı düşük ışık, sis ve düşük kontrast problemlerini çözmek amacıyla geliştirilen temel görüntü işleme tekniklerini içerir.
 
