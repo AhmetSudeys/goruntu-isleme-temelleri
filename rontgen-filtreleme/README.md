@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/4f6f9908-0a1e-483b-9920-d933ba762dd9" alt="Orijinal Gürültülü Görüntü">
-      <p><b>Orijinal Gürültülü Görüntü</b></p>
+      <img src="https://github.com/user-attachments/assets/4f6f9908-0a1e-483b-9920-d933ba762dd9" alt="Filtreleme Yöntemlerinin Karşılaştırmalı Sonuçları" width="500">
+      <p><b>Filtreleme Yöntemlerinin Karşılaştırmalı Sonuçları</b></p>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/738a0498-5539-4a55-9fa1-d0a0142d2e65" alt="Tüm Filtrelerin Karşılaştırmalı Sonuçları">
+      <img src="https://github.com/user-attachments/assets/738a0498-5539-4a55-9fa1-d0a0142d2e65" alt="Tüm Filtrelerin Karşılaştırmalı Sonuçları" width="500">
       <p><b>Tüm Filtrelerin Karşılaştırmalı Sonuçları (Grid)</b></p>
     </td>
   </tr>
@@ -33,7 +33,7 @@ Görüntüye daha doğal ve ağırlıklı bir yumuşatma etkisi vermek için sig
 
 ## Klasör İçeriği
 * RontgenAnaliz.py: Tüm filtreleme adımlarını ve kıyaslamaları içeren ana Python kodu.
-* rontgen.jpeg: Analiz edilen orijinal, gürültülü biyomedikal röntgen görüntüsü.
+* img1.png: Analiz edilen orijinal, gürültülü biyomedikal röntgen görüntüsü.
 
 ## Çalıştırma
 Gerekli kütüphaneleri (OpenCV, NumPy, Matplotlib) kurduktan sonra terminale şu komutu yazarak projeyi çalıştırabilirsiniz:
