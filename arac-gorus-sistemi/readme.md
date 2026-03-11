@@ -36,4 +36,4 @@ Kameradaki elektriksel parazitleri ve periyodik desenleri analiz etmek için gö
 Gerekli kütüphaneleri (OpenCV, NumPy, Matplotlib) kurduktan sonra terminale şu komutu yazarak projeyi çalıştırabilirsiniz:
 
 ```bash
-python OtonomGorusSistemi.pyy
+python OtonomGorusSistemi.py
