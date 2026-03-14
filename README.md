@@ -12,6 +12,7 @@ Repoda yer alan her bir klasör, görüntü işleme üzerine belirli bir konuya 
 
 ## İnceleme ve Kullanım
 
-Bu çalışmaları inceleyebilir ve öğrenme sürecinizde kendi çalışmalarınız için referans olarak kullanabilirsiniz. Kodları incelemek, hata bildirmek veya öneride bulunmak isterseniz iletişime geçebilirsiniz.
+Bu çalışmaları inceleyebilir ve öğrenme sürecinizde kendi çalışmalarınız için referans olarak kullanabilirsiniz. 
+Kodları incelemek, hata bildirmek veya öneride bulunmak isterseniz iletişime geçebilirsiniz.
 
 Faydalı olması dileğiyle :)
